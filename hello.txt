@@ -1,0 +1,2 @@
+Hello the world.
+This file was fetched from a Git repository.
